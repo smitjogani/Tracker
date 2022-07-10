@@ -1,0 +1,1 @@
+number = input("Enter phonenumber number (+{country code....}) : ")
